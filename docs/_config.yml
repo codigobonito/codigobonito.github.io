@@ -201,8 +201,7 @@ kramdown:
 
 # Collections for members, documents, etc.
 collections:
-  pessoas:
-    output: true
+  - pessoas
 
 
 # Default YAML values (more information on Jekyll's site)
