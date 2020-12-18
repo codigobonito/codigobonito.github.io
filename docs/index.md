@@ -1,6 +1,8 @@
 ---
-layout: home
-title: Bem vindos
-subtitle: Essa é a página do grupo do Código Bonito
+layout: page
+title: Código Bonito
+subtitle: Um grupo livre para falar sobre ciência aberta, bioinformática e programação
 ---
+
+Página inicial.
 
