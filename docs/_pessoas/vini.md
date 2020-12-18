@@ -1,7 +1,7 @@
 ---
-layout: person
 name: Vini
-positon: Membro
+position: Membro
+gh-user: vinisalazar
 ---
 
 Página do Vini
