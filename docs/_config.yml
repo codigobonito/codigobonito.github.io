@@ -199,6 +199,12 @@ include:
 kramdown:
   input: GFM
 
+# Collections for members, documents, etc.
+collections:
+  pessoas:
+    output: true
+
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
