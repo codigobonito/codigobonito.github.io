@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Código Bonito
 
 # Your name to show in the footer
-author: Some Person
+author: Grupo do Código Bonito
 
 # --- List of links in the navigation bar --- #
 
@@ -20,7 +20,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: https://avatars0.githubusercontent.com/u/75452601?s=200&v=4
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -35,12 +35,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  # email: "someone@example.com"
+  # facebook: deanattali
+  # github: daattali
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -52,7 +52,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+ telegram: codigobonito
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -60,7 +60,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -73,7 +73,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
