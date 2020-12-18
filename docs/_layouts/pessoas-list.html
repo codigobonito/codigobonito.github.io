@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign pessoas = paginator.pessoas | default: site.pessoas %}
+
+{% for person in site.pessoas %}
+  <h2>{{ person.name }}</h2>
+  <h3>{{ person.position }}</h3>
+  <p>{{ person.content | markdownify }}</p>
+{% endfor %}
