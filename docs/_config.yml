@@ -18,7 +18,7 @@ navbar-links:
   Pessoas: "pessoas"
   Participe: "participe"
   Recursos:
-    - Google Drive: "nosso_google_drive.com"
+    - Reuniões passadas: "reunioes"
 
 # --- Logo --- #
 
@@ -192,6 +192,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+include:
+  - _pages
 
 kramdown:
   input: GFM
