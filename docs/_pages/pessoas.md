@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pessoas-list
 title: Pessoas
 subtitle: Perfis das pessoas que constroem o Código Bonito
 permalink: /pessoas/

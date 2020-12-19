@@ -16,6 +16,7 @@ author: Voluntári@s do grupo Código Bonito
 navbar-links:
   Sobre: "aboutme"
   Pessoas: "pessoas"
+  Blog: "blog"
   Participe: "participe"
   Recursos:
     - Reuniões passadas: "reunioes"
@@ -197,6 +198,11 @@ include:
 
 kramdown:
   input: GFM
+
+# Collections for members, documents, etc.
+collections:
+  - pessoas
+
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
