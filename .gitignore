@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+.ruby-version
 
 # pycharm
 .idea/
