@@ -1,4 +1,5 @@
 from collections import defaultdict
+from pathlib import Path
 
 import requests
 import yaml
@@ -40,11 +41,16 @@ def write_yaml(members):
 
     for member in members:
 
-        with open(f"../docs/_pessoas/{member}.yaml", "w") as f:
-            f.write("---\n")
-            content = yaml.dump(members[member], allow_unicode=True)
-            f.write(content)
-            f.write("---")
+        filename = Path(f"../docs/_pessoas/{member}.md")
+
+        if filename.exists():
+            continue
+        else:
+            with open(filename, "w") as f:
+                f.write("---\n")
+                content = yaml.dump(members[member], allow_unicode=True)
+                f.write(content)
+                f.write("---")
 
 
 if __name__ == "__main__":
