@@ -6,8 +6,28 @@ layout: page
 
 {% assign pessoas = paginator.pessoas | default: site.pessoas %}
 
-{% for person in site.pessoas %}
-  <h2>{{ person.name }}</h2>
-  <h3>{{ person.position }}</h3>
-  <p>{{ person.content | markdownify }}</p>
+
+{% for pessoa in site.pessoas %}
+<div class="card" style="margin:10px;">
+  <div class="row no-gutters">
+    <div class="col-md-3">
+      <img src="{{ pessoa.avatar_url }}" class="img-fluid" alt="">
+    </div>
+    <div class="col">
+      <div class="card-block px-2">
+        <h4 class="card-title">{{ pessoa.name }}</h4>
+        <p class="card-text">{{ pessoa.bio }}</p>
+        <a href="https://github.com/{{ pessoa.gh-user }}">
+          <i class="fab fa-github fa-2x"></i>
+          <!-- <p>{{ pessoa.gh-user }}</p> -->
+        </a>
+        <a href="https://twitter.com/{{ pessoa.twitter }}">
+          <i class="fab fa-twitter fa-2x"></i>
+          <!-- <p>{{ pessoa.gh-user }}</p> -->
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 {% endfor %}
