@@ -43,14 +43,11 @@ def write_yaml(members):
 
         filename = Path(f"../docs/_pessoas/{member}.md")
 
-        if filename.exists():
-            continue
-        else:
-            with open(filename, "w") as f:
-                f.write("---\n")
-                content = yaml.dump(members[member], allow_unicode=True)
-                f.write(content)
-                f.write("---")
+        with open(filename, "w") as f:
+            f.write("---\n")
+            content = yaml.dump(members[member], allow_unicode=True)
+            f.write(content)
+            f.write("---")
 
 
 if __name__ == "__main__":
