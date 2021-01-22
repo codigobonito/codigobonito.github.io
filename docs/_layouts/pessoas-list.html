@@ -11,23 +11,28 @@ layout: page
 <div class="card" style="margin:10px;">
   <div class="row no-gutters">
     <div class="col-md-3">
-      <img src="{{ pessoa.avatar_url }}" class="img-fluid" alt="">
+      <img src="{{ pessoa.avatar_url }}" class="rounded img-fluid" alt="Foto de {{pessoa.name}}">
     </div>
     <div class="col">
       <div class="card-block px-2">
-        <h4 class="card-title">{{ pessoa.name }}</h4>
+        <h4 class="card-title">
+          {% if pessoa.name != nil %}
+          {{ pessoa.name }}
+          {% else %}
+          {{ pessoa.gh-user }}
+          {% endif %}
+        </h4>
         <p class="card-text">{{ pessoa.bio }}</p>
         <a href="https://github.com/{{ pessoa.gh-user }}">
           <i class="fab fa-github fa-2x"></i>
-          <!-- <p>{{ pessoa.gh-user }}</p> -->
         </a>
+        {% if pessoa.twitter != nil %}
         <a href="https://twitter.com/{{ pessoa.twitter }}">
           <i class="fab fa-twitter fa-2x"></i>
-          <!-- <p>{{ pessoa.gh-user }}</p> -->
         </a>
+        {% endif %}
       </div>
     </div>
   </div>
 </div>
-
 {% endfor %}
