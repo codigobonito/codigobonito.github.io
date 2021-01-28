@@ -1,6 +1,6 @@
 # codigobonito.github.io
 
-Página do GitHub da organização Código Bonito.
+Página do GitHub da organização do Código Bonito.
 
 Para rodar o site localmente, você irá precisar ter o [Ruby](https://www.ruby-lang.org/en/documentation/installation/) e
 também o [Jekyll e o Bundler](https://jekyllrb.com/docs/installation/) instalados.
