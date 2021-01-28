@@ -5,4 +5,21 @@ subtitle: Como participar do Código Bonito?
 permalink: /participe/
 ---
 
-Aqui falando como participar, reuniões, etc.
+O grupo é um grupo aberto a pessoas interessadas de qualquer lugar.
+
+Incluindo: 
+
+- Padawans da bioinfo
+- Almirantes da Enterprise
+- Alunos de pós graduação
+- Artistas frustrados
+- Seres mitológicos
+- ex-iGEMers
+- Humanoides
+- Robos que passem no Teste de Turing
+- Desenvolvedores de software
+- Todo mundo
+
+Para participar, só entrar no [grupo aberto do telegram](https://t.me/codigobonito).
+
+Reuniões semanais via Google Meet, toda quinta-feira às [18:00](https://zonestamp.com/1611864037). 
