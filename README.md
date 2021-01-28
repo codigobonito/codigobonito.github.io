@@ -16,13 +16,13 @@ Instale as dependências:
 
 ```bash
 cd docs/
-bundle install
+bundler install
 ```
 
 E, então, ainda dentro do diretório docs/, sirva o website localmente:
 
 ```bash
-bundle exec jekyll serve
+bundler exec jekyll serve
 ```
 
 Depois de alguns segundos, seu computador deve estar servindo o website em `localhost:4000`
