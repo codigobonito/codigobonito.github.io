@@ -4,6 +4,14 @@ title: Reuniões passadas
 permalink: /reunioes/
 ---
 
+## GitHub Pages e o Website
+
+* [Reunião 28 A Segunda de 2021](https://docs.google.com/document/d/1AmznaXTygQjCSILYLj8xGFl4037dGZwvWqNcYVsbAJs/edit) 
+* [Reunião 27 A Primeira de 2021](https://docs.google.com/document/d/1-K1rRDtd-O1ivF_H1vbBUFw0LYZTjf9hlbKsvfpVB9c/edit)  
+* [Reunião 26 Aquela do GitHub Pages 3](https://docs.google.com/document/d/1h_hzQKtgdcHe5JFEQEI-2g-mHRPZNNH6eGWYvg0fK8Y/edit#)
+* [Reunião 25 Aquela do GitHub Pages 2](https://docs.google.com/document/d/13G2DbaLNReIHSy0MChI0YSEgIv8fs32DCO6nqQwScNs/edit#) 
+* [Reunião 24 Aquela do GitHub Pages](https://docs.google.com/document/d/1ox84mOPVoDJTMXQ_kMQZ57YsUO8aCmDBUEIbEmvX1w0/edit#heading=h.1lnbga4wta47)
+
 ## Aprentações e Artigos
 
 * [Reunião 23: Definições sobre o futuro](https://docs.google.com/document/d/1IBe-_AsW6VJiGdcCIvtmZgMqgpCrCqnhCvRH6K-Rzb4)
@@ -33,3 +41,7 @@ permalink: /reunioes/
 * [Reunião 3](https://docs.google.com/document/d/1hGjZ0USg7TndiZ-LkNFDbYQTeJB-wtuPCs3jSAyWdq4)
 * [Reunião 2](https://docs.google.com/document/d/1RRE0ryez9l6GDucDphl5BlBvO8aLrgYmbRt7dpw3EBQ)
 * [Reunião 1](https://docs.google.com/document/d/1h9qJzvKruE375D3nRewRiFHu0XJai-VJc5CCYiREhQQ)
+
+
+## Outros
+* Alguns materiais estão disponíveis na página no [Wikiversidade](https://pt.wikiversity.org/wiki/C%C3%B3digo_Bonito:_Boas_Pr%C3%A1ticas_em_Bioinform%C3%A1tica).
