@@ -11,3 +11,6 @@ Nos reunimos para discutir como podemos melhorar a forma que escrevemos e usamos
 
 O grupo tem membros de todo o Brasil e pessoas espalhadas pelo mundo. 
 Para participar, só entrar no [grupo do Telegram](https://t.me/codigobonito). 
+
+
+Temos também uma página no [Wikiversidade](https://pt.wikiversity.org/wiki/C%C3%B3digo_Bonito:_Boas_Pr%C3%A1ticas_em_Bioinform%C3%A1tica). 
