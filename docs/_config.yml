@@ -16,7 +16,8 @@ author: Voluntári@s do grupo Código Bonito
 navbar-links:
   Sobre: "aboutme"
   Pessoas: "pessoas"
-  Blog: "blog"
+# Blog commented out while we do not have any blogs
+#  Blog: "blog"
   Participe: "participe"
   Recursos:
     - Reuniões passadas: "reunioes"
