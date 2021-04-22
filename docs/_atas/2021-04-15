@@ -1,0 +1,50 @@
+# Capítulo 7 - Introdução ao R
+
+## Participantes
+- Ester
+- Flavielle
+- Gabriela
+- Isaac
+- João Vitor
+- Tiago Lubiana
+- Vinícius
+
+## Anúncios
+- 2nd Women in Bioinformatics & Data Science LA Conference:
+    - Abertura do prazo para submissão de resumos
+    - https://womenbioinfodatascla.github.io/2WBDSLA/index.html 
+- Bundle de livros em python com preço acessível e doação para caridades.
+    - https://www.humblebundle.com/books/ultimate-python-bookshelf-packt-books?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_2_layout_index_1_layout_type_threes_tile_index_2_c_ultimatepythonbookshelfpackt_bookbundle
+
+## Apresentações
+
+## Comentários
+- Vocês usam o R? Gostam da linguagem?
+    - Uso por necessidade
+    - Uso apenas quando necessário
+- Usam R fora do RStudio?
+    - A maioria não usa
+    - Uso eventual para rodar scripts remotamente
+- No R, o uso de funções como `lapply()`, `sapply()` e outras relacionadas a linguagens funcionais são mais eficientes que laços `for()`, por exemplo
+- Principais usos para o R entre os participantes
+    - Análises estatísticas
+    - Gerar gráficos
+    - Bibliotecas de bioinformática disponíveis somente para R
+- Talvez R seja muito usado na bioinformática por ter como principais usuários pessoas sem tanto  em programação
+    - A linguagem e o ambiente do RStudio facilitam a leitura e compreensão 
+    - A linguagem parece até "preguiçosa"
+    - Até mesmo a construção de bibliotecas acaba sendo influenciada nesse sentido
+    - Às vezes passam a impressão de faltar cuidados técnicos, como modular o código 
+        - "Linguagem exploratória"
+        - Comparativo com código para jupyter notebook
+- Scripts para figura final deveriam ser rodados de forma totalmente linear, para garantir que o dado esteja correto.
+    - Possibilidade de documentar também a versão das bibliotecas usadas para essa figura
+
+## Off:
+- Escolha e divisão dos próximos capítulos
+- Pensar em outro horário para a reunião?
+- Apresentação do Isaac sobre Test-Driven Development (TDD)
+
+### Próxima semana
+- Apresentação completa sobre TDD com o Isaac
+- Pensar nos próximos passos para o grupo
