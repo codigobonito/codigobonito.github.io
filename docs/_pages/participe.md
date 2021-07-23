@@ -22,4 +22,4 @@ Incluindo:
 
 Para participar, só entrar no [grupo aberto do telegram](https://t.me/codigobonito).
 
-Reuniões semanais via Google Meet, toda quinta-feira às [18:00](https://zonestamp.com/1611864037). 
+Reuniões semanais via Google Meet, toda quinta-feira às [09:30h](https://zonestamp.com/1627561849). 
