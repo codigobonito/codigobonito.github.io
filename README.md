@@ -26,3 +26,7 @@ bundler exec jekyll serve
 ```
 
 Depois de alguns segundos, seu computador deve estar servindo o website em `localhost:4000`
+
+
+## Extras
+* Google Collab para extrair membros da organização: https://colab.research.google.com/drive/1LV7mh0PcsG1U2LbQbRBoFr-PaHQmdE_O?usp=sharing
